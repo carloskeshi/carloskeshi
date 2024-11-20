@@ -1,4 +1,4 @@
-## 👨‍💻 Carlos Nogueira
+## 👨‍💻 Carlos Nogueira.
 
 <!-- Introdução -->
 #### Sou estudante de programação e um entusiasta da tecnologia! Estou constantemente aprendendo novas linguagens e frameworks para aprimorar minhas habilidades. Tenho interesse especial em desenvolvimento web e aplicações backend, e estou sempre em busca de desafios que me ajudem a crescer como programador. Além disso, gosto de colaborar em projetos de código aberto e compartilhar conhecimento com a comunidade.
@@ -7,6 +7,7 @@
 <!-- Itecnologias-->
 <div style="display: inline_block" align="center"><br/>
 <span style="font-size: 16px; font-weight: bold;">📚 Tecnologias que estou estudando: </span>
+<hr>
 <br>
 <br>
 <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -24,18 +25,9 @@
 <!-- Minhas redes -->
 <div style="display: inline_block " align="center"><br/>
 <span style="font-size: 16px; font-weight: bold;">🤝 Minhas redes: </span>
-<br>
+<hr>
 <br>
 <a href="https://www.linkedin.com/in/carlos-nogueira-2911b51b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
 <img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 </div>
-
-
-
-
-
-
-
-
-
